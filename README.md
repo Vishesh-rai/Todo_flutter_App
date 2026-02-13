@@ -1,20 +1,68 @@
-<<<<<<< HEAD
-# my_first_real_app
 
-A new Flutter project.
+# ✨ Flutter To-Do App
 
-## Getting Started
+A modern and minimal **Task Manager App** built with **Flutter** to organize daily activities in a simple and intuitive way.
+Designed with clean UI principles and beginner-friendly architecture, this project demonstrates core Flutter concepts like widgets, state updates and UI interactions.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Highlights
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✔ Beautiful & lightweight interface
+✔ Smooth task management experience
+✔ Real-time UI update on actions
+✔ Beginner friendly project structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Todo_flutter_App
->>>>>>> 046efd7917dac5f26505ed1e4b0f70eba42d9a89
+---
+
+## 🚀 Features
+
+* 👤 Add & display **profile photo**
+* ➕ Add new to-do tasks
+* 🗑 Remove tasks anytime
+* ☑ Mark tasks as completed using checkbox
+* ✏ Automatically apply **strike-through** on completed tasks
+* ⚡ Instant UI update without reload
+* 📱 Responsive Material UI
+
+---
+
+## 📸 App Screenshots
+![photo_2026-02-13_13-45-25](https://github.com/user-attachments/assets/97b42606-825e-429f-bb34-55f1ae72a5b9)
+
+---
+
+## 🛠 Built With
+
+* **Flutter**
+* **Dart**
+* Material Design Components
+* setState State Management
+
+---
+
+## 🧠 What I Learned
+
+* Flutter widget tree & layouts
+* Managing dynamic lists
+* Handling user interactions
+* Updating UI using state changes
+* Clean UI structuring in Flutter apps
+
+---
+
+## 📌 Future Enhancements
+
+* Dark Mode 🌙
+* Edit task option ✏
+* Local database storage 💾
+* Reminder notifications ⏰
+
+---
+
+## 👨‍💻 Developer
+
+**Vishesh Rai**
+
+If you like this project, consider giving it a ⭐ — it motivates me to build more!
+
